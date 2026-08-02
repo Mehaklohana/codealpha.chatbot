@@ -1,0 +1,62 @@
+[
+  {
+    "question": "What is your return policy?",
+    "keywords": "return refund money back exchange send item",
+    "answer": "You can return any item within 30 days of purchase for a full refund, as long as it is unused and in its original packaging."
+  },
+  {
+    "question": "How long does shipping take?",
+    "keywords": "shipping delivery time how long arrive when",
+    "answer": "Standard shipping takes 3-5 business days. Express shipping takes 1-2 business days."
+  },
+  {
+    "question": "Do you ship internationally?",
+    "keywords": "international shipping abroad overseas other country worldwide",
+    "answer": "Yes, we ship to over 50 countries worldwide. International shipping times vary by location, typically 7-14 business days."
+  },
+  {
+    "question": "How can I track my order?",
+    "keywords": "track order tracking number where is my package status",
+    "answer": "Once your order ships, you will receive a tracking number by email. You can use it on our website's 'Track Order' page."
+  },
+  {
+    "question": "What payment methods do you accept?",
+    "keywords": "payment method pay card paypal apple pay visa mastercard",
+    "answer": "We accept Visa, MasterCard, American Express, PayPal, and Apple Pay."
+  },
+  {
+    "question": "How do I cancel my order?",
+    "keywords": "cancel order stop purchase undo",
+    "answer": "You can cancel your order within 1 hour of placing it by going to 'My Orders' and clicking 'Cancel'. After that, please contact support."
+  },
+  {
+    "question": "Is my payment information secure?",
+    "keywords": "safe secure payment security online pay protected encrypted",
+    "answer": "Yes, all payments are processed through encrypted, PCI-DSS compliant payment gateways. We never store your full card details."
+  },
+  {
+    "question": "Do you offer a warranty on products?",
+    "keywords": "warranty guarantee product broken repair",
+    "answer": "Most products come with a 1-year manufacturer warranty. Warranty details are listed on each product page."
+  },
+  {
+    "question": "How do I contact customer support?",
+    "keywords": "contact support help customer service email phone call",
+    "answer": "You can reach our support team via live chat on the website, by emailing support@example.com, or by calling 1-800-555-0199."
+  },
+  {
+    "question": "Can I change my shipping address after placing an order?",
+    "keywords": "change address update shipping wrong address edit",
+    "answer": "You can change your shipping address within 1 hour of placing the order by contacting customer support directly."
+  },
+  {
+    "question": "Do you have a loyalty or rewards program?",
+    "keywords": "loyalty reward points program discount member",
+    "answer": "Yes! You earn 1 point for every dollar spent, which can be redeemed for discounts on future purchases."
+  },
+  {
+    "question": "What should I do if I received a damaged item?",
+    "keywords": "damaged broken item arrived defective replacement",
+    "answer": "Please contact support within 48 hours of delivery with photos of the damaged item, and we will send a replacement or refund."
+  }
+]
